@@ -1,6 +1,6 @@
-# Digikala-Simulator
+# Digikala Simulator With Command Line
 
-## Username and password for login:
+### Username and password for login:
 ###### user1 = ("abolix", "98143001")
 ###### user2 = ("ali20", "981434")
 ###### user3 = ("mmd", "mmd")
