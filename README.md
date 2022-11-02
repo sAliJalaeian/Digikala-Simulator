@@ -1,13 +1,13 @@
 # Digikala-Simulator
 
 # Username and password for login:
-user1 = ("abolix", "98143001")
-user2 = ("ali20", "981434")
-user3 = ("mmd", "mmd")
-user4 = ("taghii", "123456")
-user5 = ("rezaii", "124aa")
-user6 = ("mostafa20", "987654a")
-user7 = ("eh20", "eh123")
-user8 = ("maryam.b", "208020")
-user9 = ("zahra.z", "z1234")
-user10 = ("azar.-.kh", "298137")
+user1 = ("abolix", "98143001")\n
+user2 = ("ali20", "981434")\n
+user3 = ("mmd", "mmd")\n
+user4 = ("taghii", "123456")\n
+user5 = ("rezaii", "124aa")\n
+user6 = ("mostafa20", "987654a")\n
+user7 = ("eh20", "eh123")\n
+user8 = ("maryam.b", "208020")\n
+user9 = ("zahra.z", "z1234")\n
+user10 = ("azar.-.kh", "298137")\n
